@@ -21,4 +21,4 @@ A basic To-Do List application built with HTML, CSS, and JavaScript. Users can a
 Created by Parameswar Swain, a 3rd-year computer science student at DRIEMS University, exploring web development.
 
 - **LinkedIn:** [Parameswar Swain](https://www.linkedin.com/in/parameswar-swain)
-- **GitHub:** [parameswar7](https://github.com/parameswar6)
+- **GitHub:** [parameswar6](https://github.com/parameswar6)
